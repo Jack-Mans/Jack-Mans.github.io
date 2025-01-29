@@ -1,10 +1,10 @@
 ---
-title: "YOUR NAME" 
+title: "Jack Mansfield" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
-  image-width: 16em
-  image-shape: rounded # rectangle  round  rounded
+  image: img/profile-me.jpeg
+  image-width: 20em
+  image-shape: round # rectangle  round  rounded
   
   links:
     - icon: linkedin
@@ -27,7 +27,7 @@ about:
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Jack Mansfield majors in Accounting and minors in Finance and Data Analytics at SUNY Geneseo. When not working on school work, Jack enjoys playing basketball and watching the Denver Broncos.
 
 ## Education
 
